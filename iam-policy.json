@@ -1,6 +1,8 @@
 !! 1.Click on Build Details
 !! 2.click on the url under the [ENVIRONMENT] section and [Service Role]
 !! 3.Under the [Permissions policies] section and Policy name url
+!! 4.Click on Edit / JSON
+!! 5.paste the block of code into the statements array
 
 {
     "Effect": "Allow",
