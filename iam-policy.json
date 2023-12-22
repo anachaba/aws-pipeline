@@ -1,5 +1,6 @@
-!! 1.click on the url under the [ENVIRONMENT] section and [Service Role]
-!! 2.Under the [Permissions policies] section and Policy name url
+!! 1.Click on Build Details
+!! 2.click on the url under the [ENVIRONMENT] section and [Service Role]
+!! 3.Under the [Permissions policies] section and Policy name url
 
 {
     "Effect": "Allow",
