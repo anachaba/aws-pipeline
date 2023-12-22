@@ -1,3 +1,6 @@
+!! 1.click on the url under the [ENVIRONMENT] section and [Service Role]
+!! 2.Under the [Permissions policies] section and Policy name url
+
 {
     "Effect": "Allow",
     "Action": [
